@@ -1,17 +1,24 @@
-# Pet Website
-#### Pet landing page, 2022
+# Pet Landing Page
 #### By **Faith Mwangi**
-## Description
+### Description
 A simple website that gives details about my pet.
-## Setup Requirements
+## Demo
+Here is a working live demo:
+https://miss-faith.github.io/pet-website/
+## Site
+### Home
+https://miss-faith.github.io/pet-website/index.html
+### About Sache
+https://miss-faith.github.io/pet-website/about-sache.html
+### Setup Requirements
 The project does not require any installations. To view the site:
 * Have internet access on your electronic device
-* click the link on supported browsers: Chrome, Firefox, Safari and Microsoft Edge.
+* click the demo link provided above. Supported browsers include: Chrome, Firefox, Safari and Microsoft Edge.
 ## Technology Used
 * HTML - Used to build the webpage structure
 * CSS - Used to style the webpage
 ## Want to contribute? Great!
-#### To fix a bug or enhance an existing module (In this case adding a page with details on your own pet), follow these steps:
+To fix a bug or enhance an existing module (In this case add a page with details on your pet), follow these steps:
 * Fork the repo
 * Create a new branch (git checkout -b improve-feature)
 * Make the appropriate changes in the files
@@ -19,7 +26,12 @@ The project does not require any installations. To view the site:
 * Commit your changes (git commit -am 'Improve feature')
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
+## Team
+
 ## Contact details
+Ran into any issues or have questions, ideas or concerns?  reach out or make a contribution.
 Email - faith.mwangi@student.moringaschool.com
-### License
+## License
+(https://github.com/Miss-Faith/pet-website/blob/master/LICENSE)
+MIT License
 Copyright (c) 2022 **Faith Mwangi**
