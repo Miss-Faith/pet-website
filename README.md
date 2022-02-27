@@ -3,8 +3,7 @@
 ### Description
 A simple website that gives details about my pet.
 ## Demo
-Here is a working live demo:
-https://miss-faith.github.io/pet-website/
+Here is a working live demo: https://miss-faith.github.io/pet-website/
 ## Site
 ### Home
 https://miss-faith.github.io/pet-website/index.html
@@ -17,17 +16,21 @@ The project does not require any installations. To view the site:
 ## Technology Used
 * HTML - Used to build the webpage structure
 * CSS - Used to style the webpage
-## Want to contribute? Great!
+## Development
+###Want to contribute? Great!
 To fix a bug or enhance an existing module (In this case add a page with details on your pet), follow these steps:
 * Fork the repo
-* Create a new branch (git checkout -b improve-feature)
+* Create a new branch ('git checkout -b improve-feature')
 * Make the appropriate changes in the files
 * Add changes to reflect the changes made
-* Commit your changes (git commit -am 'Improve feature')
-* Push to the branch (git push origin improve-feature)
+* Commit your changes ('git commit -am 'Improve feature')
+* Push to the branch ('git push origin improve-feature')
 * Create a Pull Request
-## Contact details
-Ran into any issues or have questions, ideas or concerns?  reach out or make a contribution.
+### Bug / Feature Request
+If you find a bug/error, kindly open an issue [here]https://github.com/iharsh234/pet-website/issues/new
+Include your search query and the expected result.
+## Team
+[Faith Mwangi](https://github.com/miss-faith)
 
 Email - faith.mwangi@student.moringaschool.com
 ## License
