@@ -1,5 +1,5 @@
-# Pet Landing Page
-#### By **Faith Mwangi**
+# [Pet Landing Page](https://miss-faith.github.io/pet-website/)
+#### By [Faith Mwangi](https://github.com/miss-faith)
 ### Description
 A simple website that gives details about my pet.
 ## Demo
@@ -12,12 +12,12 @@ https://miss-faith.github.io/pet-website/about-sache.html
 ### Setup Requirements
 The project does not require any installations. To view the site:
 * Have internet access on your electronic device
-* click the demo link provided above. Supported browsers include: Chrome, Firefox, Safari and Microsoft Edge.
+* Click the demo link provided above. Supported browsers include: Chrome, Firefox, Safari and Microsoft Edge.
 ## Technology Used
 * HTML - Used to build the webpage structure
 * CSS - Used to style the webpage
 ## Development
-###Want to contribute? Great!
+### Want to contribute? Great!
 To fix a bug or enhance an existing module (In this case add a page with details on your pet), follow these steps:
 * Fork the repo
 * Create a new branch ('git checkout -b improve-feature')
@@ -29,7 +29,10 @@ To fix a bug or enhance an existing module (In this case add a page with details
 ### Bug / Feature Request
 If you find a bug/error, kindly open an issue [here](https://github.com/iharsh234/pet-website/issues/new)
 Include your search query and the expected result.
-## Team
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/pet-website/issues/new)
+Include sample queries and their corresponding results.
+## Contact information
 [Faith Mwangi](https://github.com/miss-faith)
 
 Email - faith.mwangi@student.moringaschool.com
