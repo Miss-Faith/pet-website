@@ -32,6 +32,8 @@ Include your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/pet-website/issues/new)
 Include sample queries and their corresponding results.
+## To-Do
+May update the landing page styling
 ## Contact information
 [Faith Mwangi](https://github.com/miss-faith)
 
