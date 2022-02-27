@@ -21,5 +21,5 @@ The project does not require any installations. To view the site:
 * Create a Pull Request
 ## Contact details
 Email - faith.mwangi@student.moringaschool.com
-###License
+### License
 Copyright (c) 2022 **Faith Mwangi**
