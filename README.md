@@ -26,12 +26,9 @@ To fix a bug or enhance an existing module (In this case add a page with details
 * Commit your changes (git commit -am 'Improve feature')
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
-## Team
-
 ## Contact details
 Ran into any issues or have questions, ideas or concerns?  reach out or make a contribution.
 Email - faith.mwangi@student.moringaschool.com
 ## License
-(https://github.com/Miss-Faith/pet-website/blob/master/LICENSE)
 MIT License
 Copyright (c) 2022 **Faith Mwangi**
