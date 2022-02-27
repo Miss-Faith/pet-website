@@ -27,7 +27,7 @@ To fix a bug or enhance an existing module (In this case add a page with details
 * Push to the branch ('git push origin improve-feature')
 * Create a Pull Request
 ### Bug / Feature Request
-If you find a bug/error, kindly open an issue [here]https://github.com/iharsh234/pet-website/issues/new
+If you find a bug/error, kindly open an issue [here](https://github.com/iharsh234/pet-website/issues/new)
 Include your search query and the expected result.
 ## Team
 [Faith Mwangi](https://github.com/miss-faith)
