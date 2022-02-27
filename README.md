@@ -28,6 +28,7 @@ To fix a bug or enhance an existing module (In this case add a page with details
 * Create a Pull Request
 ## Contact details
 Ran into any issues or have questions, ideas or concerns?  reach out or make a contribution.
+
 Email - faith.mwangi@student.moringaschool.com
 ## License
 MIT License
